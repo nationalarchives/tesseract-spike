@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nationalarchives/tesseract-spike/issues"
   },
-  "homepage": "https://github.com/nationalarchives/tesseract-spike#readme"
+  "homepage": "https://github.com/nationalarchives/tesseract-spike#readme",
+  "dependencies": {
+    "tesseract.js": "^1.0.10"
+  }
 }
