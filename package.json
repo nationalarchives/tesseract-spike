@@ -1,0 +1,20 @@
+{
+  "name": "tesseract-spike",
+  "version": "1.0.0",
+  "description": "The purpose of this repository is to prepare a demonstration of working with Tesseract. All relevant information will be described in this repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nationalarchives/tesseract-spike.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nationalarchives/tesseract-spike/issues"
+  },
+  "homepage": "https://github.com/nationalarchives/tesseract-spike#readme"
+}
