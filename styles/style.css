@@ -1,0 +1,9 @@
+figure {
+    background-color: #EEE;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+figure img {
+    outline: 1px solid #555;
+}
